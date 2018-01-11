@@ -1,4 +1,4 @@
-web: python3 mp3downloader/downloader.py
+web: python3 test.py
 <<<<<<< HEAD
 =======
 
