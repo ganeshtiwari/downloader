@@ -1,2 +1,1 @@
-worker: python3 mp3downloader.py
-
+web: gunicorn gettingstarted.wsgi --log-file -
